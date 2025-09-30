@@ -21,7 +21,7 @@ Capture screenshots of the waveform and save the simulation logs. These will be 
 
 # Code
 # RAM
-// Verilog code
+****
 
 // Test bench
 
